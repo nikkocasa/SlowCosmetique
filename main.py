@@ -23,7 +23,7 @@ def main(fcmd, ftxt, fres='res.csv'):
             cur_po = ''
             for line in f2chk:
                 line = line[:-1] if (len(line) > 1 and ord(line[-1]) == 10) else line
-                line_split = line.split(' ')
+                line_split = [item for sub in [el.split('\t') for el in line.split(' ')] for item in sub]
                 first = line_split[0]
                 if first in po_list:
                     newcmd = True
@@ -53,8 +53,8 @@ def main(fcmd, ftxt, fres='res.csv'):
 
 
 if __name__ != '__main__':
-    main(sys.argv[2], sys.argv[3])
+    main(sys.argv[2], sys.argv[3], sys.argv[3].split('.')[:-1] + '_res.csv' )
 else:
-    main('slow/commandes_2019.csv','slow/commandes_slow-cosmetiques.txt')
+    main('commandes_2019.csv','commandes_slow-cosmetiques.txt')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
