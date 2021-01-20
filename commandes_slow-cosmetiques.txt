@@ -1,0 +1,1137 @@
+Num. et identifiant commande	Date commande	Statut de la commande	Date expédition	Prix total
+100283273-3 100283273	18/01/2021 20:13	Acceptée : En cours de traitement		14,92 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+SOIN DE RASAGE - Après-rasage et épilation	2.BB.10040.04	17,90 €	17,90 €	1		0
+Total	17,90 €	
+Client
+Elsa Grouci
+
+
+
+
+
+Historique
+18/01/2021 20:13 - Acceptée : En cours de traitement
+100282526-3 100282526	14/01/2021 23:09	Expédiée	15/01/2021 16:04	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Martine Dejeneffe
+4052 BEAUFAYS (Belgique)
+
+
+
+
+Suivi de colis :
+: CA332707270FR
+
+Historique
+15/01/2021 16:04 - Acceptée : En cours de traitement
+15/01/2021 16:04 - Expédiée
+14/01/2021 23:10 - Acceptée : En cours de traitement
+100282422-5 100282422	14/01/2021 20:38	Expédiée	15/01/2021 16:05	29,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+VOILE DE NUIT - Sérum Anti-âge Visage & Cou	2.BB.10060.04	34,90 €	34,90 €	1	Validé	1
+Total	34,90 €	
+Client
+Angele Moll
+65600 SEMEAC (France)
+
+
+
+
+Suivi de colis :
+: 9L27822743816
+
+Historique
+15/01/2021 16:05 - Acceptée : En cours de traitement
+15/01/2021 16:05 - Expédiée
+14/01/2021 20:38 - Acceptée : En cours de traitement
+100281360-6 100281360	11/01/2021 00:00	Expédiée	12/01/2021 15:06	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Anaïs Lampart
+94270 LE KREMLIN-BICÊTRE (France)
+
+
+
+
+Suivi de colis :
+: 9L27781675999
+
+Historique
+12/01/2021 15:06 - Acceptée : En cours de traitement
+12/01/2021 15:06 - Expédiée
+11/01/2021 00:01 - Acceptée : En cours de traitement
+100280761-2 100280761	07/01/2021 23:56	Expédiée	11/01/2021 10:32	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Véronique Mele
+33720 SAINT MICHEL DE RIEUFRET (France)
+
+
+
+
+Suivi de colis :
+: 49743783
+
+Historique
+11/01/2021 10:32 - Acceptée : En cours de traitement
+11/01/2021 10:32 - Expédiée
+07/01/2021 23:56 - Acceptée : En cours de traitement
+100280454-3 100280454	06/01/2021 13:34	Expédiée	07/01/2021 15:05	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Yoann Louedoc
+77380 COMBS LA VILLE (France)
+
+
+
+
+Suivi de colis :
+: 9L27782054892
+
+Historique
+07/01/2021 15:05 - Acceptée : En cours de traitement
+07/01/2021 15:05 - Expédiée
+06/01/2021 13:35 - Acceptée : En cours de traitement
+100279775-2 100279775	03/01/2021 15:00	Expédiée	05/01/2021 15:05	7,17 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+DÉO - Baume déodorant Naturel	2.BH.10021.01	8,60 €	8,60 €	1	Validé	1
+Total	8,60 €	
+Client
+Camille Ghersy
+34080 MONTPELLIER (France)
+
+
+
+
+Suivi de colis :
+: 9L27778483675
+
+Historique
+05/01/2021 15:05 - Acceptée : En cours de traitement
+05/01/2021 15:05 - Expédiée
+03/01/2021 15:00 - Acceptée : En cours de traitement
+100279385-8 100279385	01/01/2021 11:04	Expédiée	04/01/2021 15:04	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Laura Bossuette Garcia
+04000 DIGNE-LES-BAINS (France)
+
+
+
+
+Suivi de colis :
+: 9L27779924825
+
+Historique
+04/01/2021 15:04 - Acceptée : En cours de traitement
+04/01/2021 15:04 - Expédiée
+01/01/2021 11:04 - Acceptée : En cours de traitement
+100279306-1 100279306	31/12/2020 12:45	Expédiée	04/01/2021 15:05	9,00 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+NETTOYANT - Démaquillant au Géranium	2.BH.10020.01	10,80 €	10,80 €	1	Validé	1
+Total	10,80 €	
+Client
+Corinne Mieszczak
+08430 MONTIGNY-SUR-VENCE (France)
+
+
+
+
+Suivi de colis :
+: 9L27779884815
+
+Historique
+04/01/2021 15:05 - Acceptée : En cours de traitement
+04/01/2021 15:05 - Expédiée
+31/12/2020 12:45 - Acceptée : En cours de traitement
+100278959-5 100278959	29/12/2020 13:31	Expédiée	30/12/2020 15:03	52,90 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Pack des voiles	1	
+Voile de jour
+ 	 
+1 x VOILE DE JOUR - Huile hydratante visage & cou 0,00 €
+2.BB.10050.04	 	
+Voile de nuit
+ 	 
+1 x VOILE DE NUIT - Sérum Anti-âge Visage & Cou 0,00 €
+2.BB.10060.04	 	
+Total	52,90 €	
+Client
+Tiphaine Dechoz
+76350 OISSEL (France)
+
+
+
+
+Suivi de colis :
+: 49743354
+
+Historique
+30/12/2020 15:03 - Acceptée : En cours de traitement
+30/12/2020 15:03 - Expédiée
+29/12/2020 13:31 - Acceptée : En cours de traitement
+100278855-3 100278855	28/12/2020 22:06	Expédiée	04/01/2021 15:06	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Marion Piponiot-Laroche
+06140 VENCE (France)
+
+
+
+
+Suivi de colis :
+: 9L27778341272
+
+Historique
+04/01/2021 15:06 - Acceptée : En cours de traitement
+04/01/2021 15:06 - Expédiée
+28/12/2020 22:06 - Acceptée : En cours de traitement
+100277437-2 100277437	19/12/2020 13:24	Expédiée	21/12/2020 16:03	39,90 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Rituel du soir	1	
+Nettoyant
+ 	 
+1 x NETTOYANT - Démaquillant au Géranium 0,00 €
+2.BH.10020.01	 	
+Voile de nuit
+ 	 
+1 x VOILE DE NUIT - Sérum Anti-âge Visage & Cou 0,00 €
+2.BB.10060.04	 	
+Total	39,90 €	
+Client
+Nathalie Banse
+60230 CHAMBLY (France)
+
+
+
+
+Suivi de colis :
+: 9L27757271552
+
+Historique
+21/12/2020 16:03 - Acceptée : En cours de traitement
+21/12/2020 16:03 - Expédiée
+19/12/2020 13:25 - Acceptée : En cours de traitement
+100277114-1 100277114	17/12/2020 16:06	Expédiée	21/12/2020 16:06	18,00 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+NETTOYANT - Démaquillant au Géranium	2.BH.10020.01	10,80 €	21,60 €	2	Validé	2
+Total	21,60 €	
+Client
+Viviane Couturier
+01300 BRENS (France)
+
+
+
+
+Suivi de colis :
+: 9L27754729544
+
+Historique
+21/12/2020 16:06 - Acceptée : En cours de traitement
+21/12/2020 16:06 - Expédiée
+17/12/2020 16:06 - Acceptée : En cours de traitement
+100276980-5 100276980	16/12/2020 21:51	Expédiée	17/12/2020 15:12	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Laure Leclercq
+7500 TOURNAI (Belgique)
+
+
+
+
+Suivi de colis :
+: 49742953
+
+Historique
+17/12/2020 15:12 - Acceptée : En cours de traitement
+17/12/2020 15:12 - Expédiée
+16/12/2020 21:52 - Acceptée : En cours de traitement
+100276586-3 100276586	15/12/2020 15:51	Expédiée	16/12/2020 15:05	52,90 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Pack des voiles	1	
+Voile de jour
+ 	 
+1 x VOILE DE JOUR - Huile hydratante visage & cou 0,00 €
+2.BB.10050.04	 	
+Voile de nuit
+ 	 
+1 x VOILE DE NUIT - Sérum Anti-âge Visage & Cou 0,00 €
+2.BB.10060.04	 	
+Total	52,90 €	
+Client
+Hélène Ecotière
+92700 COLOMBES (France)
+
+
+
+
+Suivi de colis :
+: 9L27756515695
+
+Historique
+16/12/2020 15:05 - Expédiée
+16/12/2020 15:05 - Acceptée : En cours de traitement
+15/12/2020 15:51 - Acceptée : En cours de traitement
+100276187-3 100276187	14/12/2020 10:55	Expédiée	15/12/2020 15:08	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Anne-Lise Marville
+94800 VILLEJUIF (France)
+
+
+
+
+Suivi de colis :
+: 9L27753464293
+
+Historique
+15/12/2020 15:08 - Acceptée : En cours de traitement
+15/12/2020 15:08 - Expédiée
+14/12/2020 10:55 - Acceptée : En cours de traitement
+100275530-1 100275530	11/12/2020 23:34	Expédiée	14/12/2020 14:03	9,00 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+NETTOYANT - Démaquillant au Géranium	2.BH.10020.01	10,80 €	10,80 €	1	Validé	1
+Total	10,80 €	
+Client
+Anaëlle Rapet
+75013 PARIS (France)
+
+
+
+
+Suivi de colis :
+: 49742704
+
+Historique
+14/12/2020 14:03 - Acceptée : En cours de traitement
+14/12/2020 14:03 - Expédiée
+11/12/2020 23:36 - Acceptée : En cours de traitement
+100275527-1 100275527	11/12/2020 23:18	Expédiée	14/12/2020 14:03	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Julie Berthelot
+95230 SOISY-SOUS-MONTMORENCY (France)
+
+
+
+
+Suivi de colis :
+: 49742699
+
+Historique
+14/12/2020 14:03 - Acceptée : En cours de traitement
+14/12/2020 14:03 - Expédiée
+11/12/2020 23:18 - Acceptée : En cours de traitement
+100274067-1 100274067	06/12/2020 22:44	Expédiée	09/12/2020 15:06	14,92 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+SOIN DE RASAGE - Après-rasage et épilation	2.BB.10040.04	17,90 €	17,90 €	1	Validé	1
+Total	17,90 €	
+Client
+Christophe Strunga
+25570 GRAND COMBE CHÂTELEU (France)
+
+
+
+
+Suivi de colis :
+: 9L27691298967
+
+Historique
+09/12/2020 15:06 - Expédiée
+09/12/2020 15:06 - Acceptée : En cours de traitement
+06/12/2020 22:44 - Acceptée : En cours de traitement
+100273460-3 100273460	05/12/2020 17:13	Expédiée	07/12/2020 15:08	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Mathilde Verneaud
+71960 VERZÉ (France)
+
+
+
+
+Suivi de colis :
+: 9L27688650709
+
+Historique
+07/12/2020 15:08 - Acceptée : En cours de traitement
+07/12/2020 15:08 - Expédiée
+05/12/2020 17:13 - Acceptée : En cours de traitement
+100273388-3 100273388	05/12/2020 14:50	Expédiée	09/12/2020 15:08	52,90 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Pack des voiles	1	
+Voile de jour
+ 	 
+1 x VOILE DE JOUR - Huile hydratante visage & cou 0,00 €
+2.BB.10050.04	 	
+Voile de nuit
+ 	 
+1 x VOILE DE NUIT - Sérum Anti-âge Visage & Cou 0,00 €
+2.BB.10060.04	 	
+Total	52,90 €	
+Client
+Delphine Braun
+60323 FRANKFURT AM MAIN (Allemagne)
+
+
+
+
+Suivi de colis :
+: CB555840445FR
+
+Historique
+09/12/2020 15:08 - Acceptée : En cours de traitement
+09/12/2020 15:08 - Expédiée
+05/12/2020 14:50 - Acceptée : En cours de traitement
+100272294-6 100272294	02/12/2020 07:53	Expédiée	03/12/2020 15:05	27,90 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Pack M&MME	1	
+Soin de rasage
+ 	 
+1 x SOIN DE RASAGE - Après-rasage et épilation 0,00 €
+2.BB.10040.04	 	
+Déodorant
+ 	 
+1 x DÉO - Baume déodorant Naturel 0,00 €
+2.BH.10021.01	 	
+Dentifrice
+ 	 
+1 x Dentifrice Bio en poudre 0,00 €
+2.BH.10022.01	 	
+Total	27,90 €	
+Client
+Frédérique Pascal
+34000 MONTPELLIER (France)
+
+
+
+
+Suivi de colis :
+: 9L27691907456
+
+Historique
+03/12/2020 15:06 - Acceptée : En cours de traitement
+03/12/2020 15:06 - Expédiée
+02/12/2020 07:55 - Acceptée : En cours de traitement
+100271468-1 100271468	29/11/2020 14:05	Expédiée	30/11/2020 16:04	39,90 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Rituel du soir	1	
+Nettoyant
+ 	 
+1 x NETTOYANT - Démaquillant au Géranium 0,00 €
+2.BH.10020.01	 	
+Voile de nuit
+ 	 
+1 x VOILE DE NUIT - Sérum Anti-âge Visage & Cou 0,00 €
+2.BB.10060.04	 	
+Total	39,90 €	
+Client
+Sophie Clausse
+77230 DAMMARTIN EN GOELE (France)
+
+
+
+
+Suivi de colis :
+: 49741912
+
+Historique
+30/11/2020 16:04 - Acceptée : En cours de traitement
+30/11/2020 16:04 - Expédiée
+29/11/2020 14:05 - Acceptée : En cours de traitement
+100271121-3 100271121	28/11/2020 15:23	Expédiée	30/11/2020 16:05	3,68 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,41 €	4,41 €	1	Validé	1
+Total	4,41 €	
+Client
+Sandrina Morizon
+66280 SALEILLES (France)
+
+
+
+
+Suivi de colis :
+: 49741859
+
+Historique
+30/11/2020 16:05 - Acceptée : En cours de traitement
+30/11/2020 16:05 - Expédiée
+28/11/2020 15:23 - Acceptée : En cours de traitement
+100271112-7 100271112	28/11/2020 15:11	Expédiée	30/11/2020 16:05	7,17 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+DÉO - Baume déodorant Naturel	2.BH.10021.01	8,60 €	8,60 €	1	Validé	1
+Total	8,60 €	
+Client
+Manon Norest
+94270 LE KREMLIN BICETRE (France)
+
+
+
+
+Suivi de colis :
+: 49741857
+
+Historique
+30/11/2020 16:05 - Acceptée : En cours de traitement
+30/11/2020 16:05 - Expédiée
+28/11/2020 15:11 - Acceptée : En cours de traitement
+100270730-1 100270730	27/11/2020 16:18	Expédiée	30/11/2020 15:11	3,68 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,41 €	4,41 €	1	Validé	1
+Total	4,41 €	
+Client
+Claire Desrumaux
+44000 NANTES (France)
+
+
+
+
+Suivi de colis :
+: 9L27653689253
+
+Historique
+30/11/2020 15:11 - Acceptée : En cours de traitement
+30/11/2020 15:11 - Expédiée
+27/11/2020 16:18 - Acceptée : En cours de traitement
+100270364-2 100270364	26/11/2020 12:56	Expédiée	28/11/2020 08:41	27,90 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Pack M&MME	1	
+Soin de rasage
+ 	 
+1 x SOIN DE RASAGE - Après-rasage et épilation 0,00 €
+2.BB.10040.04	 	
+Déodorant
+ 	 
+1 x DÉO - Baume déodorant Naturel 0,00 €
+2.BH.10021.01	 	
+Dentifrice
+ 	 
+1 x Dentifrice Bio en poudre 0,00 €
+2.BH.10022.01	 	
+Total	27,90 €	
+Client
+Kamal Dahou
+92600 ASNIÈRES-SUR-SEINE (France)
+
+
+
+
+Suivi de colis :
+: 9L27651570898
+
+Historique
+28/11/2020 08:41 - Acceptée : En cours de traitement
+28/11/2020 08:41 - Expédiée
+26/11/2020 12:57 - Acceptée : En cours de traitement
+100270234-2 100270234	25/11/2020 17:21	Expédiée	28/11/2020 08:44	14,92 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+SOIN DE RASAGE - Après-rasage et épilation	2.BB.10040.04	17,90 €	17,90 €	1	Validé	1
+Total	17,90 €	
+Client
+Melissa De Vocht
+98000 MONACO (Monaco)
+
+
+
+
+Suivi de colis :
+: 9L27650050964
+
+Historique
+28/11/2020 08:44 - Acceptée : En cours de traitement
+28/11/2020 08:44 - Expédiée
+25/11/2020 17:21 - Acceptée : En cours de traitement
+100269363-1 100269363	21/11/2020 17:55	Expédiée	23/11/2020 15:05	9,00 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+NETTOYANT - Démaquillant au Géranium	2.BH.10020.01	10,80 €	10,80 €	1	Validé	1
+Total	10,80 €	
+Client
+Elisabeth Moncaut
+78510 TRIEL-SUR-SEINE (France)
+
+
+
+
+Suivi de colis :
+: 9L27629001690
+
+Historique
+23/11/2020 15:05 - Acceptée : En cours de traitement
+23/11/2020 15:05 - Expédiée
+21/11/2020 17:55 - Acceptée : En cours de traitement
+100267067-1 100267067	11/11/2020 10:31	Expédiée	12/11/2020 16:04	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Émilie Gateau
+10130 RACINES (France)
+
+
+
+
+Suivi de colis :
+: 9L27606401086
+
+Historique
+12/11/2020 16:04 - Acceptée : En cours de traitement
+12/11/2020 16:04 - Expédiée
+11/11/2020 10:32 - Acceptée : En cours de traitement
+100265860-1 100265860	06/11/2020 14:56	Expédiée	10/11/2020 15:13	18,00 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+NETTOYANT - Démaquillant au Géranium	2.BH.10020.01	10,80 €	21,60 €	2	Validé	2
+Total	21,60 €	
+Client
+Océane Flesselle
+21500 MONTBARD (France)
+
+
+
+
+Suivi de colis :
+: 9L27560041823
+
+Historique
+10/11/2020 15:13 - Acceptée : En cours de traitement
+10/11/2020 15:13 - Expédiée
+06/11/2020 14:56 - Acceptée : En cours de traitement
+100265771-2 100265771	06/11/2020 08:34	Expédiée	09/11/2020 15:06	14,92 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+SOIN DE RASAGE - Après-rasage et épilation	2.BB.10040.04	17,90 €	17,90 €	1	Validé	1
+Total	17,90 €	
+Client
+Sophie Villance
+6880 BERTRIX (Belgique)
+
+
+
+
+Suivi de colis :
+: CA328541888FR
+
+Historique
+09/11/2020 15:06 - Acceptée : En cours de traitement
+09/11/2020 15:06 - Expédiée
+06/11/2020 08:35 - Acceptée : En cours de traitement
+100265505-2 100265505	05/11/2020 09:33	Expédiée	06/11/2020 16:08	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Lola Baudrin
+83100 TOULON (France)
+
+
+
+
+Suivi de colis :
+: 9L27559851242
+
+Historique
+06/11/2020 16:08 - Acceptée : En cours de traitement
+06/11/2020 16:08 - Expédiée
+05/11/2020 09:33 - Acceptée : En cours de traitement
+100265327-1 100265327	04/11/2020 16:24	Expédiée	05/11/2020 15:06	9,00 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+NETTOYANT - Démaquillant au Géranium	2.BH.10020.01	10,80 €	10,80 €	1	Validé	1
+Total	10,80 €	
+Client
+Viviane Couturier
+01300 BRENS (France)
+
+
+
+
+Suivi de colis :
+: 9L27573335513
+
+Historique
+05/11/2020 15:06 - Acceptée : En cours de traitement
+05/11/2020 15:06 - Expédiée
+04/11/2020 16:24 - Acceptée : En cours de traitement
+100265226-4 100265226	04/11/2020 08:21	Expédiée	05/11/2020 15:07	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Nathalie Musumeci
+06100 NICE (France)
+
+
+
+
+Suivi de colis :
+: 9L27572320381
+
+Historique
+05/11/2020 15:07 - Acceptée : En cours de traitement
+05/11/2020 15:07 - Expédiée
+04/11/2020 08:21 - Acceptée : En cours de traitement
+100265125-2 100265125	03/11/2020 17:34	Expédiée	16/11/2020 15:12	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Nadine Alfonso
+75013 PARIS (France)
+
+
+
+
+Suivi de colis :
+: 9L27571762168
+
+Historique
+16/11/2020 15:12 - Acceptée : En cours de traitement
+16/11/2020 15:12 - Expédiée
+03/11/2020 17:34 - Acceptée : En cours de traitement
+100264875-4 100264875	02/11/2020 17:58	Expédiée	05/11/2020 15:11	29,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+VOILE DE NUIT - Sérum Anti-âge Visage & Cou	2.BB.10060.04	34,90 €	34,90 €	1	Validé	1
+Total	34,90 €	
+Client
+Janine Darche
+22520 BINIC ETABLES SUR MER (France)
+
+
+
+
+Suivi de colis :
+: 9L27572226942
+
+Historique
+05/11/2020 15:11 - Acceptée : En cours de traitement
+05/11/2020 15:11 - Expédiée
+02/11/2020 17:59 - Acceptée : En cours de traitement
+100264315-1 100264315	31/10/2020 10:50	Expédiée	02/11/2020 16:06	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Lou-Hang Bimont
+75003 PARIS (France)
+
+
+
+
+Suivi de colis :
+: 9L27544951810
+
+Historique
+02/11/2020 16:06 - Expédiée
+02/11/2020 16:06 - Acceptée : En cours de traitement
+31/10/2020 10:50 - Acceptée : En cours de traitement
+100264193-2 100264193	30/10/2020 15:57	Expédiée	02/11/2020 16:07	8,17 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	9,80 €	2	Validé	2
+Total	9,80 €	
+Client
+Pascale Fleriag
+78760 JOUARS-PONTCHARTRAIN (France)
+
+
+
+
+Suivi de colis :
+: 9L27546441517
+
+Historique
+02/11/2020 16:07 - Acceptée : En cours de traitement
+02/11/2020 16:07 - Expédiée
+30/10/2020 15:57 - Acceptée : En cours de traitement
+100263588-6 100263588	27/10/2020 10:16	Expédiée	29/10/2020 16:06	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Isabelle Tarlet-Karcher
+55800 BRABANT LE ROI (France)
+
+
+
+
+Suivi de colis :
+: 9L27548238085
+
+Historique
+29/10/2020 16:06 - Acceptée : En cours de traitement
+29/10/2020 16:06 - Expédiée
+27/10/2020 10:16 - Acceptée : En cours de traitement
+100262914-1 100262914	22/10/2020 21:49	Expédiée	26/10/2020 15:03	14,92 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+SOIN DE RASAGE - Après-rasage et épilation	2.BB.10040.04	17,90 €	17,90 €	1	Validé	1
+Total	17,90 €	
+Client
+Julien Ugolin
+60490 MAREST-SUR-MATZ (France)
+
+
+
+
+Suivi de colis :
+: 9L27544163909
+
+Historique
+26/10/2020 15:03 - Acceptée : En cours de traitement
+26/10/2020 15:03 - Expédiée
+22/10/2020 21:50 - Acceptée : En cours de traitement
+100262721-2 100262721	21/10/2020 14:42	Expédiée	23/10/2020 15:12	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Marie Brunet
+69630 CHAPONOST (France)
+
+
+
+
+Suivi de colis :
+: 9L27544599593
+
+Historique
+23/10/2020 15:12 - Acceptée : En cours de traitement
+23/10/2020 15:12 - Expédiée
+21/10/2020 14:43 - Acceptée : En cours de traitement
+100261843-4 100261843	14/10/2020 23:31	Expédiée	16/10/2020 15:06	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Chloé Berard
+7760 URY (France)
+
+
+
+
+Suivi de colis :
+: 9L27520921493
+
+Historique
+16/10/2020 15:06 - Acceptée : En cours de traitement
+16/10/2020 15:06 - Expédiée
+14/10/2020 23:31 - Acceptée : En cours de traitement
+100261797-3 100261797	14/10/2020 19:55	Expédiée	16/10/2020 15:06	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Ghyslaine Roucairol
+84120 PERTUIS (France)
+
+
+
+
+Suivi de colis :
+: 9L27521875214
+
+Historique
+16/10/2020 15:06 - Expédiée
+16/10/2020 15:06 - Acceptée : En cours de traitement
+14/10/2020 19:55 - Acceptée : En cours de traitement
+100261040-2 100261040	09/10/2020 19:37	Expédiée	12/10/2020 15:05	9,00 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+NETTOYANT - Démaquillant au Géranium	2.BH.10020.01	10,80 €	10,80 €	1	Validé	1
+Total	10,80 €	
+Client
+Coraline Pouteau
+95570 MOISSELLES (France)
+
+
+
+
+Suivi de colis :
+: 49740270
+
+Historique
+12/10/2020 15:05 - Acceptée : En cours de traitement
+12/10/2020 15:05 - Expédiée
+09/10/2020 19:37 - Acceptée : En cours de traitement
+100260940-3 100260940	09/10/2020 09:41	Expédiée	09/10/2020 15:04	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Vuillemenot Rene
+21800 CHEVIGNY ST SAUVEUR (France)
+
+
+
+
+Suivi de colis :
+: 9L27521696611
+
+Historique
+09/10/2020 15:04 - Acceptée : En cours de traitement
+09/10/2020 15:04 - Expédiée
+09/10/2020 09:41 - Acceptée : En cours de traitement
+100260701-11 100260701	07/10/2020 18:51	Expédiée	08/10/2020 16:03	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Remise	0,00 €	
+Client
+Anne-Lise Marville
+94800 VILLEJUIF (France)
+
+
+
+
+Suivi de colis :
+: 49740196
+
+Historique
+08/10/2020 16:03 - Acceptée : En cours de traitement
+08/10/2020 16:03 - Expédiée
+07/10/2020 18:51 - Acceptée : En cours de traitement
+100260535-2 100260535	06/10/2020 20:07	Expédiée	08/10/2020 15:04	7,17 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+DÉO - Baume déodorant Naturel	2.BH.10021.01	8,60 €	8,60 €	1	Validé	1
+Total	8,60 €	
+Client
+Élisa Rolande Heulard
+64290 LASSEUBE (France)
+
+
+
+
+Suivi de colis :
+: 9L27521635054
+
+Historique
+08/10/2020 15:04 - Acceptée : En cours de traitement
+08/10/2020 15:04 - Expédiée
+06/10/2020 20:07 - Acceptée : En cours de traitement
+100260533-1 100260533	06/10/2020 19:55	Expédiée	08/10/2020 15:04	9,00 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+NETTOYANT - Démaquillant au Géranium	2.BH.10020.01	10,80 €	10,80 €	1	Validé	1
+Total	10,80 €	
+Client
+Hélène Nimetz
+32370 MANCIET (France)
+
+
+
+
+Suivi de colis :
+: 9L27521635078
+
+Historique
+08/10/2020 15:04 - Acceptée : En cours de traitement
+08/10/2020 15:04 - Expédiée
+06/10/2020 19:55 - Acceptée : En cours de traitement
+100260526-3 100260526	06/10/2020 19:10	Expédiée	08/10/2020 16:03	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Emmanuelle Preau
+77177 BROU SUR CHANTEREINE (France)
+
+
+
+
+Suivi de colis :
+: 49740150
+
+Historique
+08/10/2020 16:03 - Expédiée
+08/10/2020 16:03 - Acceptée : En cours de traitement
+06/10/2020 19:10 - Acceptée : En cours de traitement
+100259967-3 100259967	03/10/2020 18:37	Expédiée	06/10/2020 15:06	9,00 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+NETTOYANT - Démaquillant au Géranium	2.BH.10020.01	10,80 €	10,80 €	1	Validé	1
+Total	10,80 €	
+Client
+Marie Gricourt
+71990 SAINT-PRIX (France)
+
+
+
+
+Suivi de colis :
+: 9L27521558582
+
+Historique
+06/10/2020 15:06 - Acceptée : En cours de traitement
+06/10/2020 15:06 - Expédiée
+03/10/2020 18:37 - Acceptée : En cours de traitement
+100259786-1 100259786	02/10/2020 17:58	Expédiée	06/10/2020 15:07	9,00 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+NETTOYANT - Démaquillant au Géranium	2.BH.10020.01	10,80 €	10,80 €	1	Validé	1
+Total	10,80 €	
+Client
+Stephanie Burelli
+13001 MARSEILLE (France)
+
+
+
+
+Suivi de colis :
+: 49740059
+
+Historique
+06/10/2020 15:07 - Acceptée : En cours de traitement
+06/10/2020 15:07 - Expédiée
+02/10/2020 17:59 - Acceptée : En cours de traitement
+100259291-3 100259291	29/09/2020 15:47	Expédiée	30/09/2020 15:06	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Mélanie Allard
+78610 LES BRÉVIAIRES (France)
+
+
+
+
+Suivi de colis :
+: 9L27495541627
+
+Historique
+30/09/2020 15:06 - Acceptée : En cours de traitement
+30/09/2020 15:06 - Expédiée
+29/09/2020 15:47 - Acceptée : En cours de traitement
+100258930-2 100258930	27/09/2020 12:07	Expédiée	29/09/2020 15:05	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Anais Beguet
+63960 VEYRE-MONTON (France)
+
+
+
+
+Suivi de colis :
+: 9L27496948210
+
+Historique
+29/09/2020 15:05 - Expédiée
+29/09/2020 15:05 - Acceptée : En cours de traitement
+27/09/2020 12:08 - Acceptée : En cours de traitement
+100258592-6 100258592	24/09/2020 19:11	Expédiée	25/09/2020 15:08	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Remise	0,00 €	
+Client
+Dominique Lopez
+07240 SAINT-JULIEN-LE-ROUX (France)
+
+
+
+
+Suivi de colis :
+: 9L27498412764
+
+Historique
+25/09/2020 15:08 - Acceptée : En cours de traitement
+25/09/2020 15:08 - Expédiée
+24/09/2020 19:12 - Acceptée : En cours de traitement
+100258295-2 100258295	23/09/2020 06:22	Expédiée	23/09/2020 15:08	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Laurence Legallois Noviant
+75014 PARIS (France)
+
+
+
+
+Suivi de colis :
+: 9L27498843018
+
+Historique
+23/09/2020 15:08 - Acceptée : En cours de traitement
+23/09/2020 15:08 - Expédiée
+23/09/2020 06:22 - Acceptée : En cours de traitement
+100258288-9 100258288	22/09/2020 23:23	Expédiée	23/09/2020 15:09	4,08 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+Dentifrice Bio en poudre	2.BH.10022.01	4,90 €	4,90 €	1	Validé	1
+Total	4,90 €	
+Client
+Céline Santoni
+94300 VINCENNES (France)
+
+
+
+
+Suivi de colis :
+: 9L27497345650
+
+Historique
+23/09/2020 15:09 - Acceptée : En cours de traitement
+23/09/2020 15:09 - Expédiée
+22/09/2020 23:23 - Acceptée : En cours de traitement
+100258045-1 100258045	21/09/2020 13:38	Expédiée	23/09/2020 15:12	7,17 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+DÉO - Baume déodorant Naturel	2.BH.10021.01	8,60 €	8,60 €	1	Validé	1
+Total	8,60 €	
+Client
+Rada Pot
+75012 PARIS (France)
+
+
+
+
+Suivi de colis :
+: 9L27496294720
+
+Historique
+23/09/2020 15:12 - Acceptée : En cours de traitement
+23/09/2020 15:12 - Expédiée
+21/09/2020 13:39 - Acceptée : En cours de traitement
+100257776-3 100257776	19/09/2020 18:24	Expédiée	22/09/2020 15:05	9,00 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+NETTOYANT - Démaquillant au Géranium	2.BH.10020.01	10,80 €	10,80 €	1	Validé	1
+Total	10,80 €	
+Client
+Océane Flesselle
+21500 MONTBARD (France)
+
+
+
+
+Suivi de colis :
+: 9L27497254655
+
+Historique
+22/09/2020 15:05 - Acceptée : En cours de traitement
+22/09/2020 15:05 - Expédiée
+19/09/2020 18:24 - Acceptée : En cours de traitement
+100257632-1 100257632	18/09/2020 18:06	Acceptée : En cours de traitement		7,17 €
+Nom du produit	Référence	PU TTC	Total TTC	Quantité	Validation	Expédiée
+DÉO - Baume déodorant Naturel	2.BH.10021.01	8,60 €	8,60 €	1		0
+Total	8,60 €	
+Client
+Rada Pot
+
+
+
+
+
+Historique
+18/09/2020 18:06 - Acceptée : En cours de traitement
